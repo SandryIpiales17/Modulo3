@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="serviciosJuego.js"></script>
+    <script src="utilitarios.js"></script>
+    <script src="juego.js"></script>
+    <link rel="stylesheet" href="juego.css">
+</head>
+
+<body>
+    <div class="contenedorTotal">
+        <div class="principal">
+            <div class="jugadorSeleccion">
+                <div class="titulo">JUEGO PIEDRA PAPEL O TIJERA</div>
+                <div class="contenedorImagenes">
+                    <div class="imagen">
+                        <input type="image" class="botonImagen" src="./imagenes/papel.jpg" width="100px"
+                            onclick="jugar('papel');">
+                    </div>
+                    <div class="imagen">
+                        <input type="image" class="botonImagen" src="./imagenes/piedra.jpg" width="100px"
+                            onclick="jugar('piedra');">
+                    </div>
+                    <div class="imagen">
+                        <input type="image" class="botonImagen" src="./imagenes/tijera.jpg" width="100px"
+                            onclick="jugar('tijera');">
+                    </div>
+                </div>
+                <div class="txtSeleccion" id="lblSeleccion"></div>
+            </div>
+
+            <div class="contenedorComputador">
+                <div class="titulo2">SELECCION DEL COMPUTADOR</div>
+                <img id="lblImagen" class="imgComputador" width="120px" />
+            </div>
+        </div>
+        <div class="principalPuntos">
+            <div class="resultado" id="lblResultado"></div>
+
+            <div class="contenedorPuntos">
+                <div class="puntos">
+                    <div>USUARIO</div>
+                    <div id="lblPuntosUsuario"></div>
+                </div>
+                <div class="puntos">
+                    <div>COMPUTADOR</div>
+                    <div id="lblPuntosComputador"></div>
+                </div>
+
+            </div>
+            <div id="lblFinal" style="color: chartreuse; font-size: 45px;"></div>
+        </div>
+        <div>
+            <input type="button" value="NUEVA PARTIDA" onclick="limpiar();">
+        </div>
+
+    </div>
+
+
+</body>
+
+</html>

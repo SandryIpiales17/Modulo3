@@ -134,3 +134,100 @@
 03-Apr-2024 15:29:49.722 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\ROOT] has finished in [19] ms
 03-Apr-2024 15:29:49.726 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
 03-Apr-2024 15:29:49.744 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [727] milliseconds
+03-Apr-2024 15:40:09.129 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/10.1.20
+03-Apr-2024 15:40:09.132 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Mar 19 2024 12:49:58 UTC
+03-Apr-2024 15:40:09.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     10.1.20.0
+03-Apr-2024 15:40:09.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+03-Apr-2024 15:40:09.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+03-Apr-2024 15:40:09.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+03-Apr-2024 15:40:09.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-21
+03-Apr-2024 15:40:09.133 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       21.0.1+12-LTS-29
+03-Apr-2024 15:40:09.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+03-Apr-2024 15:40:09.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20
+03-Apr-2024 15:40:09.134 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20
+03-Apr-2024 15:40:09.141 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\conf\logging.properties
+03-Apr-2024 15:40:09.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Apr-2024 15:40:09.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+03-Apr-2024 15:40:09.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Apr-2024 15:40:09.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Apr-2024 15:40:09.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+03-Apr-2024 15:40:09.142 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+03-Apr-2024 15:40:09.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+03-Apr-2024 15:40:09.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Apr-2024 15:40:09.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20
+03-Apr-2024 15:40:09.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20
+03-Apr-2024 15:40:09.143 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\temp
+03-Apr-2024 15:40:09.146 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [2.0.7] con la versión APR [1.7.4].
+03-Apr-2024 15:40:09.150 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.13 30 Jan 2024]
+03-Apr-2024 15:40:09.355 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+03-Apr-2024 15:40:09.372 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [394] milliseconds
+03-Apr-2024 15:40:09.406 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+03-Apr-2024 15:40:09.406 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.20]
+03-Apr-2024 15:40:09.415 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\docs] de la aplicación web
+03-Apr-2024 15:40:09.652 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\docs] has finished in [235] ms
+03-Apr-2024 15:40:09.652 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\examples] de la aplicación web
+03-Apr-2024 15:40:09.950 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\examples] has finished in [298] ms
+03-Apr-2024 15:40:09.950 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\host-manager] de la aplicación web
+03-Apr-2024 15:40:09.980 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\host-manager] has finished in [30] ms
+03-Apr-2024 15:40:09.981 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\krakedev] de la aplicación web
+03-Apr-2024 15:40:10.004 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\krakedev] has finished in [22] ms
+03-Apr-2024 15:40:10.004 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\manager] de la aplicación web
+03-Apr-2024 15:40:10.032 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\manager] has finished in [28] ms
+03-Apr-2024 15:40:10.033 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\ROOT] de la aplicación web
+03-Apr-2024 15:40:10.053 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\ROOT] has finished in [19] ms
+03-Apr-2024 15:40:10.056 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Apr-2024 15:40:10.076 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [702] milliseconds
+03-Apr-2024 15:41:28.291 INFO [Thread-1] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+03-Apr-2024 15:41:28.298 INFO [Thread-1] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+03-Apr-2024 15:41:28.319 INFO [Thread-1] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+03-Apr-2024 15:41:28.332 INFO [Thread-1] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+03-Apr-2024 15:41:30.616 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Nombre de la versión del servidor: Apache Tomcat/10.1.20
+03-Apr-2024 15:41:30.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:                      Mar 19 2024 12:49:58 UTC
+03-Apr-2024 15:41:30.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Número de versión de servidor:     10.1.20.0
+03-Apr-2024 15:41:30.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:                           Windows 10
+03-Apr-2024 15:41:30.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Versión de Systema Operativo:      10.0
+03-Apr-2024 15:41:30.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Arquitectura:                      amd64
+03-Apr-2024 15:41:30.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:                         C:\Program Files\Java\jdk-21
+03-Apr-2024 15:41:30.619 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:                       21.0.1+12-LTS-29
+03-Apr-2024 15:41:30.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Vededor JVM:                       Oracle Corporation
+03-Apr-2024 15:41:30.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:                     C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20
+03-Apr-2024 15:41:30.620 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:                     C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20
+03-Apr-2024 15:41:30.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.config.file=C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\conf\logging.properties
+03-Apr-2024 15:41:30.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+03-Apr-2024 15:41:30.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djdk.tls.ephemeralDHKeySize=2048
+03-Apr-2024 15:41:30.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+03-Apr-2024 15:41:30.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.lang=ALL-UNNAMED
+03-Apr-2024 15:41:30.627 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.io=ALL-UNNAMED
+03-Apr-2024 15:41:30.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util=ALL-UNNAMED
+03-Apr-2024 15:41:30.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+03-Apr-2024 15:41:30.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+03-Apr-2024 15:41:30.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.base=C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20
+03-Apr-2024 15:41:30.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Dcatalina.home=C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20
+03-Apr-2024 15:41:30.628 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument:             -Djava.io.tmpdir=C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\temp
+03-Apr-2024 15:41:30.630 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Cargada la biblioteca nativa APR de Apache Tomcat [2.0.7] con la versión APR [1.7.4].
+03-Apr-2024 15:41:30.635 INFO [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL inicializado correctamente [OpenSSL 3.0.13 30 Jan 2024]
+03-Apr-2024 15:41:30.841 INFO [main] org.apache.coyote.AbstractProtocol.init Inicializando el manejador de protocolo ["http-nio-8080"]
+
+03-Apr-2024 15:41:30.858 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [387] milliseconds
+03-Apr-2024 15:41:30.891 INFO [main] org.apache.catalina.core.StandardService.startInternal Arrancando servicio [Catalina]
+03-Apr-2024 15:41:30.891 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/10.1.20]
+03-Apr-2024 15:41:30.901 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\docs] de la aplicación web
+03-Apr-2024 15:41:31.137 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\docs] has finished in [234] ms
+03-Apr-2024 15:41:31.138 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\examples] de la aplicación web
+03-Apr-2024 15:41:31.451 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\examples] has finished in [313] ms
+03-Apr-2024 15:41:31.452 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\host-manager] de la aplicación web
+03-Apr-2024 15:41:31.483 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\host-manager] has finished in [31] ms
+03-Apr-2024 15:41:31.484 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\krakedev] de la aplicación web
+03-Apr-2024 15:41:31.512 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\krakedev] has finished in [28] ms
+03-Apr-2024 15:41:31.512 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\manager] de la aplicación web
+03-Apr-2024 15:41:31.544 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\manager] has finished in [31] ms
+03-Apr-2024 15:41:31.544 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Desplegando el directorio [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\ROOT] de la aplicación web
+03-Apr-2024 15:41:31.571 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CLEAR MINDS\GITHUB\Modulo3\apache-tomcat-10.1.20\webapps\ROOT] has finished in [27] ms
+03-Apr-2024 15:41:31.575 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+03-Apr-2024 15:41:31.593 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [734] milliseconds
+03-Apr-2024 15:58:04.283 INFO [main] org.apache.catalina.core.StandardServer.await Se ha recibido un comando de apagado a través del puerto de apagado. Parando la instancia del Servidor.
+03-Apr-2024 15:58:04.284 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+03-Apr-2024 15:58:04.287 INFO [main] org.apache.catalina.core.StandardService.stopInternal Parando servicio [Catalina]
+03-Apr-2024 15:58:04.305 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+03-Apr-2024 15:58:04.318 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]

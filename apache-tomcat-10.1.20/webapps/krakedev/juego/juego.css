@@ -1,0 +1,107 @@
+body {
+    background-image: url("./imagenes/fondo.jpg");
+    background-size: cover;
+    text-align: center;
+
+}
+
+.contenedorTotal {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    justify-self: self-start;
+    background: #0F2027;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #2C5364, #203A43, #0F2027);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+    margin-top: 80px;
+}
+
+.principal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+.jugadorSeleccion {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.contenedorComputador {
+    display: flex;
+    flex: 1;
+    flex-direction: column;
+    
+    background-color: azure;
+}
+
+.contenedorImagenes {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.titulo {
+    font-size: 30px;
+    color: aliceblue;
+    text-align: center;
+}
+.titulo2 {
+    font-size: 30px;
+    color: rgb(1, 50, 93);
+    text-align: center;
+}
+
+.imagen {
+    display: flex;
+    flex: 1;
+}
+
+.botonImagen {
+
+    border-color: rgb(46, 4, 4);
+    border-radius: 20%;
+    border: 100px;
+
+}
+.imgComputador{
+    border-color: rgb(46, 4, 4);
+    border-radius: 20%;
+    border: 100px;
+    margin-left: 250px;
+}
+.resultado {
+    font-size: 40px;
+    color: rgb(209, 115, 21);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.principalPuntos{
+    display: flex;
+    flex-direction: column;
+    color: antiquewhite;
+
+}
+.contenedorPuntos{
+    display: flex;
+    flex-direction: row;
+}
+.puntos{
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    text-align: center;
+}
+.txtPuntos{
+    color: antiquewhite;
+}
+.txtSeleccion{
+    color: aliceblue;
+    font-size: 20px;
+}
